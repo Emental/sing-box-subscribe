@@ -11,3 +11,5 @@ venv/
 ENV/ 
 env.bak/ 
 venv.bak/ 
+config*.json
+config_template/config_template_singbox.json
